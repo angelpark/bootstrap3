@@ -1,3 +1,6 @@
-var func = {
-
+var func21  =  {
+    
 }
+
+
+var test = {}
