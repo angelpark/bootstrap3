@@ -1,4 +1,4 @@
-var func_re1 =  {
+var func_re2 =  {
     
 }
 
