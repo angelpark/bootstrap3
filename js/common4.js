@@ -1,5 +1,5 @@
-var func_re2dddddasdggggggggggg =  {
+var fun =  {
     
 }
 
-// 주석 자리  git ddd
+// 주석 자리  git dddsdddddddddd
